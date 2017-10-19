@@ -2,10 +2,11 @@
 using namespace std;
 
 int main(){
-	nilai=nilai+1;
 	int nilai;
-	int 1Nilai;
+	int Nilai;
+	
+	nilai=nilai+1;
 	
 	cout << nilai;
-	cout << 1Nilai;
+	cout << Nilai;
 }
