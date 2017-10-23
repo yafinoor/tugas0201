@@ -10,4 +10,6 @@ int main(){
 	cout << 'Luas 1 box parket :'<<luas1box<<"m2"<<endl;
 	
 	double jumlahBoxP,biayaParket,biayaPasang,totalBiaya;
+	jumlahBoxP =luasRumah/luas1box;
+	cout <<"jumlah box parket	:"<<jumlahBoxP<<endl;
 }
