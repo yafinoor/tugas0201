@@ -12,5 +12,5 @@ int main(){
 	
 	cout << nilai <<" : "<<Nilai<<" | "<<NILAI<<" "<<niLAI<<endl;
 	cout << angka <<"\n";
-	cout << Angka <<endl<<ANGKA;	
+	cout << Angka <<	
 }
